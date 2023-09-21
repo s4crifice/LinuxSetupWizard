@@ -62,7 +62,6 @@ Contributions to this project are welcome. Feel free to fork the repository and 
 
 If you have any questions or suggestions, please feel free to contact the author:
 
-Your Name
 Email: ve_xorbug@proton.me
 GitHub: [https://github.com/s4crifice](https://github.com/s4crifice)
 
