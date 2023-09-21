@@ -81,7 +81,7 @@ vb_guest_additions() {
 tools() {
     local null_path="$1"
     apt-get install -y seclists curl dnsrecon enum4linux feroxbuster gobuster impacket-scripts nbtscan nikto nmap onesixtyone oscanner >> "$null_path"
-    apt-get install -y redis-tools smbclient smbmap snmp sslscan sipvicious tnscmd10g whatweb wkhtmltopdf >> "$null_path"
+    apt-get install -y redis-tools smbclient smbmap snmp sslscan sipvicious tnscmd10g whatweb wkhtmltopdf docker.io docker-compose >> "$null_path"
 }
 
 # Ask the user if they want to start the automated configuration
